@@ -16,10 +16,10 @@
 
 <resources>
     <!--  Primary text color in the Dialer -->
-    <color name="dialtacts_primary_text_color">#ffffff</color>
+    <color name="dialtacts_primary_text_color">#f1d744</color>
     <!-- Secondary text color in the Dialer -->
-    <color name="dialtacts_secondary_text_color">#b3ffffff</color>
-    <color name="dialer_red_highlight_color">#ff1744</color>
+    <color name="dialtacts_secondary_text_color">#f1d744</color>
+    <color name="dialer_red_highlight_color">#FF0000</color>
     <color name="dialer_green_highlight_color">#00c853</color>
 
     <!-- Color for the setting text. -->
@@ -52,7 +52,7 @@
     <color name="voicemail_playback_seek_bar_already_played">@color/dialer_theme_color</color>
 
     <!-- Standard color for selected items. -->
-    <color name="item_selected">#660099cc</color>
+    <color name="item_selected">#f1d744</color>
 
     <!-- White background for dialer -->
     <color name="background_dialer_white">@*android:color/material_grey_850</color>
@@ -69,7 +69,7 @@
     <color name="searchbox_icon_tint">#a4a4a4</color>
 
     <!-- Color of the contact name in favorite tiles -->
-    <color name="contact_tile_name_color">#ffffff</color>
+    <color name="contact_tile_name_color">#f1d744</color>
 
     <color name="contact_list_name_text_color">@color/dialtacts_primary_text_color</color>
 
@@ -84,7 +84,7 @@
     <color name="remove_highlighted_text_color">#FF3F3B</color>
 
     <!-- Color of the bottom border below the contacts grid on the main dialer screen. -->
-    <color name="contacts_grid_bottom_border_color">#16000000</color>
+    <color name="contacts_grid_bottom_border_color">#f1d744</color>
 
     <!-- Color of actions in expanded call log entries.  This text color represents actions such
          as call back, play voicemail, etc. -->
@@ -99,7 +99,7 @@
     <!-- Color for icons in the actionbar -->
     <color name="actionbar_icon_color">#ffffff</color>
 
-    <color name="dialer_dialpad_touch_tint">#330288d1</color>
+    <color name="dialer_dialpad_touch_tint">#f1d744</color>
 
     <color name="floating_action_button_touch_tint">#80ffffff</color>
 
