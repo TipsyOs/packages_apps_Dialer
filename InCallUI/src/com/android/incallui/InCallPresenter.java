@@ -726,6 +726,9 @@ public class InCallPresenter implements CallList.Listener,
         if (CallList.getInstance().isDsdaEnabled() && (mInCallActivity != null)) {
             mInCallActivity.updateDsdaTab();
         }
+        if (isActivityStarted()) {
+            wakeUpScreen();
+        }
     }
 
     @Override
